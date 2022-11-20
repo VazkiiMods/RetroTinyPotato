@@ -1,0 +1,19 @@
+[
+{
+	"modid": "retrotinypotato",
+	"name": "Tiny Potato",
+	"description": "Your Minecraft best friend, now available on 1.4",
+	"version": "${version}",
+	"credits": "williewillus, Vazkii, quat, Violet Moon Discord",
+	"logoFile": "/textures/retrotinypotato/logo.png",
+	"mcversion": "1.4.7",
+	"url": "https://github.com/VazkiiMods/RetroTinyPotato",
+	"updateUrl": "",
+	"authors": ["williewillus"],
+	"parent": "",
+	"screenshots": [],
+	"dependencies": [
+		"mod_MinecraftForge"
+	]
+}
+]
